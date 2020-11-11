@@ -2,8 +2,8 @@
 layout: list
 title: Study
 slug: study
-menu: false
-submenu: false
+menu: true
+submenu: true
 order: 1
 description: >
   공부 기록.

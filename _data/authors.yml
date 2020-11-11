@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-joonsu0109:
+joonsu0109-gh:
   name:              joonsu0109
   email:             joonsu0109@gmail.com
 

@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Artwork
-slug: artwork
+title: Study
+slug: study
 menu: false
 submenu: false
 order: 1
 description: >
-  디자인이나 창작물들을 담습니다.
+  공부 기록.
 ---

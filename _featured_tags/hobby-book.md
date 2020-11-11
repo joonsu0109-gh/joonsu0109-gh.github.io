@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: coffee
-slug: coffee
+title: book
+slug: book
 category: hobby
 menu: false
 order: 1

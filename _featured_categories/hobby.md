@@ -4,7 +4,7 @@ title: Hobby
 slug: hobby
 menu: true
 submenu: true
-order: 1
+order: 3
 description: >
-  취미
+  관심사들.
 ---

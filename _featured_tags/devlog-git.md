@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Web
-slug: web
+title: git
+slug: git
 category: devlog
 menu: false
 order: 1

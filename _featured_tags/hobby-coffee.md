@@ -4,5 +4,5 @@ title: coffee
 slug: coffee
 category: hobby
 menu: false
-order: 1
+order: 2
 ---

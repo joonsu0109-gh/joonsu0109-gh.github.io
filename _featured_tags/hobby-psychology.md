@@ -4,5 +4,5 @@ title: psychology
 slug: psychology
 category: hobby
 menu: false
-order: 1
+order: 5
 ---

@@ -20,8 +20,8 @@ description:         >
   수정필요
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:              joonsu0109-gh
-  name:              joonsu0109-gh
+author:              joonsu0109
+  name:              joonsu0109
   email:             joonsu0109@gmail.com
 
 # Fallback image and color
@@ -46,7 +46,7 @@ google_fonts:        Lato
 google_analytics:    UA-92346434-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    isme2n
+disqus_shortname:    joonsu0109
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2017. by isme2n'

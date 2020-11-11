@@ -6,6 +6,6 @@ menu: true
 submenu: true
 order: 3
 description: >
-  관심사들.
-  [book][coffee][cooking][psychology][stock]
+  관심사들.<br/>
+  [book] [coffee] [cooking] [psychology] [stock]
 ---

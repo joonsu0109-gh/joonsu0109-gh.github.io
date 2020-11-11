@@ -7,4 +7,5 @@ submenu: true
 order: 3
 description: >
   관심사들.
+  [book][coffee][cooking][idea][psychology][stock]
 ---

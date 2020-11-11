@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: React
-slug: react
-category: video
+title: coffee
+slug: coffee
+category: hobby
 menu: false
 order: 1
 ---

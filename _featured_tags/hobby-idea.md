@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: review
+title: coffee
+slug: coffee
+category: hobby
 menu: false
 order: 1
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Japan
-slug: japan
-category: tip
+title: coffee
+slug: coffee
+category: hobby
 menu: false
 order: 1
 ---

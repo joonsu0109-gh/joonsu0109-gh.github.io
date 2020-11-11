@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
-category: devlog
+title: coffee
+slug: coffee
+category: hobby
 menu: false
 order: 1
 ---

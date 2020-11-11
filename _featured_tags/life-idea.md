@@ -2,7 +2,7 @@
 layout: tag-blog
 title: idea
 slug: idea
-category: hobby
+category: life
 menu: false
 order: 4
 ---

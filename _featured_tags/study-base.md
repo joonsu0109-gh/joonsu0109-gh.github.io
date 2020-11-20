@@ -1,10 +1,10 @@
 ---
 layout: tag-blog
-title: 2-2
-slug: 2-2
+title: base
+slug: base
 category: study
 menu: false
-order: 1
+order: 2
 description: >
-  [인공지능], [자료구조], [동역학], [정보기술], [전기전자실험], [확통], [기초스페인어]
+부족한 기초
 ---

@@ -8,6 +8,8 @@ comments: true
 ---
 
 ###1장
+
+
 #####Ser 동사
 |주어|동사|
 |---|---|
@@ -18,5 +20,8 @@ comments: true
 |Vosotros/as |sois|
 |Ellos/ellas/Uds |son|
 
+
 ###2장
+
+
 #####Estar 동사

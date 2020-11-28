@@ -7,10 +7,10 @@ tags: 2-2
 comments: true
 ---
 
-###1장
+### 1장
+##### Ser 동사
 
-
-#####Ser 동사
+---
 |주어|동사|
 |---|---|
 | Yo | soy |
@@ -19,9 +19,8 @@ comments: true
 |Nosotors/as |somos|
 |Vosotros/as |sois|
 |Ellos/ellas/Uds |son|
+---
 
+### 2장
 
-###2장
-
-
-#####Estar 동사
+##### Estar 동사

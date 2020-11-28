@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [기초스페인어] 변형 동사 모음
-subtitle: 메인 동사들 모아보기
+title: '[기초스페인어] 변형 동사 모음'
+subtitle: '메인 동사들 모아보기'
 categories: study
 tags: 2-2
 comments: true

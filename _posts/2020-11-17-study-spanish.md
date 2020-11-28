@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [기초스페인어]질문모음
-subtitle: 메인 질문들 모아보기
+title: '[기초스페인어]질문모음'
+subtitle: '메인 질문들 모아보기'
 categories: study
 tags: 2-2
 comments: true

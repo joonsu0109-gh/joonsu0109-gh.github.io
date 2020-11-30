@@ -219,6 +219,7 @@ comments: true
 * ### 추가단어
 * ### 추가공부
 ## Capítulo 5. ¿Dónde está tu casa?
+
 * ### Hay동사 : ~가 있다.
     * Hay + ()/부정관사/숫자/ mucho/a + 명사  
     ex. Hay unos clientes en la cafeteria.  
@@ -251,16 +252,23 @@ comments: true
     * hablar 말하다 o as a amos ais an  
     * Comer 먹다 o es e emos éis en  
     * Vivir 살다 o es e imos ís en  
+    ! idiomas 언어(남성명사)
 
 * ### 불규칙 동사 Saber, Poder
-    * Saber 알다(지식) yo sé, 나머지는 er동사 그대로  
-    * Poder 할 수 있다(능력) puedo, puedes puede podemos podéis pueden 
+    * Saber 알다(지식)(innate) yo sé, 나머지는 er동사 그대로  
+    * Poder 할 수 있다(possibility) puedo, puedes puede podemos podéis pueden 
 
 * ### 각종 의문문
-    * ¿Qué? 무엇  
-    * ¿Quién? 누가?
-    * ¿Cómo? 어떻게?
-    * ¿Dónde? 어디?
+    * ¿Qué? 무엇  ex. ¿Qué idiomas hablar?
+    * ¿Quién? 누가? ex. ¿Quiénes saben hablar español?
+    * ¿Cómo? 어떻게?    ex. ¿Cómo está?
+    * ¿Dónde? 어디? ex. ¿Dónde vive?
+    * ¿Por qué? 왜? ex. ¿por qué estudia María el español?
+    * ¿Cuándo?언제? ex. ¿Cuándo cena María?
+    * ¿Cuánto/a/os/as? 얼마나?  ex. ¿Cuánto dinero necesitas?  
+    불가산 명사랑은 Cuánto.
+    * ¿Cuál?/¿Cuáles? 어떤것? ¿Cuál es su clase favorita?
+    
 * ### 단어
     * -ar형 동사
     comprar  사다  
@@ -283,7 +291,14 @@ comments: true
     mirar  보다
     regresar 돌아오다 
 
+* ### 대화
+    ¿Qué sabes hacer bien?
+    Yo sé hablar inglés bien y bailar bien.
+
 * ### 추가단어
+    coger 잡다  
+    recibir (편지나 선물을)받다  
+    idiomas 언어(남성명사)
 * ### 추가공부
 
 ## Capítulo 7. ¿Adónde vas?
@@ -291,11 +306,14 @@ comments: true
 * ### 불규칙 동사 Ir, Venir
     * Ir 가다 voy vas va vamos vais van  
     * Venir 오다 vengo vienes viene venimos venís vienen  
-    ! ir는 뒤에 to를 의미하는 a와 같이 쓰인다.
+    ! ir는 뒤에 to를 의미하는 a와 같이 쓰인다.  
+    ! ¿Adónde vais vosoros? 너희들~  
+     vamos a~ 우리는 ~ 처럼 받는게 다를 수 있다.
 
 * ### 미래의 계획이나 의도 Ir + a + 동사원형
     * Voy a ir al cine esta tarde.  
-    ! al = a + el  
+    ! al = a + el 꼭 합쳐쓰기.  
+    ex. Quiero ir al cine.
 * ### 전치사 a, de en
     * a(=to) 목적지나 방향
     * de(=from, of)
@@ -313,46 +331,74 @@ comments: true
     recibir  받다  
     abrir  열다  
     subir 올라가다  
+* ### 대화
+    A : ¿Qué vas a hacer hoy?  
+    B : Voy a ir a cafetría y cenar con amigo.
 * ### 추가단어
+    facultad 대학  
+    cine 영화관  
+    parque 큰 공원  
+    tienda de conveniencia 편의점
+    piso 층
 * ### 추가공부
+
 
 ## Capítulo 8. Tengo mucho frío
 
 * ### 불규칙동사 Tener, Dar
     * Tener 가지다  
     tengo tienes tiene tenemos tenéis tienen  
-    * Dar 주다  
-    doy, 나머지는 ar동사와 동일
 
 * ### Tener 동사를 이용한 관용 표현
     * Tener +  
-    claro/fío  덥다/춥다  
-    hambre/sed  배가고프다/목마르다  
+    claro/fío  덥다/춥다  !암기  
+    hambre/sed  배가고프다/목마르다 !암기    
     sueño/miedo/gripe   졸리다/무섭다/독감 걸리다
     prisa/suerte    급하다/운이좋다
-    dolor de estómago/de cabeza     배가 아프다/머리가 아프다
+    dolor de estómago/dolor de cabeza     배가 아프다/머리가 아프다
+    años 몇 살이다.(항상 복수)
     * A : ¿Cuántos años tienes? 너 몇살이니?
     Q : Tengo veinte años.  
     ! años는 남성명사 몇 살
+
 * ### 추가단어
+    tener fiebre 열이 나다  
+    escuela 학교
+    cumpleaños 생일
 * ### 추가공부
+    * ¿Adónde vas?  Yo voy a casa
+    * ¿Qué vas hacer hoy? Voy a leer un libro y estudiar chino.
 
 ## Capítulo 9. Te quiero a ti.
 * ### 불규칙 동사 Hacer, Querer
     * Hacer(to do) 하다, 만들다  
     hago, 나머지는 er 동사와 동일  
-    * Querer 좋아하다, 원하다, 사람을 좋아할 때는 앞에 a가 온다.  
+    ex. A : ¿Qué haces? 뭐해?  
+        Q : Yo estudio inglés y cocino algo.  
+        A : ¿Qué quieres? 뭘 원해?
+    * Querer(want, like) (사람을)좋아하다, 원하다, 사람을 좋아할 때는 앞에 a가 온다.  
     quiero quieres quiere queremos queréis quieren  
+    ex. Quiero a José. Quiero un coche.
 
 * ### 전치사와 함께 쓰는 인칭대명사 A mí, De ti, Conmigo...
     * 전치사 + yo->mí/tú->ti 이 2개만
     * ex. Yo te quiero a ti.
     * con(with) + mí = conmigo | con(with) + tí = contigo
     * por(+cause)), para(=for)
-    ! 강세 주의
+    ! 강세 주의  
+    ex. A ¿estudias conmigo?  나와 공부할지 묻는거니까 conmigo
+        B Si. Yo quiero estudiar contigo.   너와 공부하고 싶다니까 contigo.
 
 * ### 추가단어
+    te quiero 좋아하다  
+    coche 자동차  
+    dinero 돈
+    niño 어린아이
+    escritor 작가
+    poder 권력
+    sin(=without)
 * ### 추가공부
+
 ## Capítulo 12. ¿Cuál te gusta más?
 * ### 선호도를 나타내는 Gustar 동사 : 종아하다
     * 주로 사물을 좋아할 때  
@@ -360,4 +406,5 @@ comments: true
     ex. A Luis le gustan los animales.
 * ### 추가단어
     también 역시
+    nadar 수영하다
 * ### 추가공부

@@ -103,34 +103,36 @@ comments: true
     Estar = 일시적, 변화되는 상태  
     ex. Hoy (Julia) está cansada  
 * ### 추가 단어  
-    * With Estar동사  
-    enfermo/a  
+    * With Estar동사 형용사  
+    enfermo/a 아픈  
     bueno/a | 건강한  
     alegre | 즐거운  
-    triste  
-    limpio/a  
-    sucio/a  
-    feliz  
-    cansado/a  
-    preocupado/a  
-    aburrido/a  
-    * With Ser동사
-    bueno/a  
-    malo/a  
-    guapo/a  
-    bonito/a  
-    feo/a  
-    simpático/a  
-    amable  
-    antipático/a  
-    rico/a  
-    pobre  
-    alto/a  
-    joven  
-    mayor  
-    anciano/a  
+    triste  슬픈  
+    limpio/a  깨끗한  
+    sucio/a  지저분한  
+    feliz  행복한  
+    cansado/a  피곤한  
+    preocupado/a  걱정스러운  
+    aburrido/a  심심한  
+    * With Ser동사 형용사  
+    bueno/a  착한  
+    malo/a  나쁜  
+    guapo/a  예쁜  
+    bonito/a  귀여운  
+    lindo/a 잘생긴  
+    feo/a  못생긴  
+    simpático/a  상냥한  
+    amable  친절한  
+    antipático/a  불친절한  
+    rico/a  부유한  
+    pobre  가난한  
+    alto/a  키큰  
+    bajo/a 키작은  
+    joven  젊은  
+    mayor  늙은  
+    anciano/a  늙은  
     alegre | 쾌활한  
-    serio/a  
+    serio/a  심각한  
 * ### 추가 공부  
 
 
@@ -141,12 +143,13 @@ comments: true
     se llama       
     nos llamamos  
     os llamais  
+
 * ### Muy&Mucho
-    mucho/a/os/as + 명사  
+    * mucho/a/os/as + 명사  
     ex. Es mucho dinero.  
-    동사 + mucho  
-    ex. Nosotros comemos much.  
-    muy + 형용사, 부사  
+    * 동사 + mucho  
+    ex. Nosotros comemos mucho.  
+    * muy + 형용사, 부사  
     ex. Mi madre está muy cansada.  
 
 * ### 정관사&부정관사
@@ -161,21 +164,21 @@ comments: true
     여성 : una | unas  
     ex. una casa, una casas  
 * ### ¿Cómo es~?
-    Ser동사는 뒤에 나오는 주어에 따라 달라짐  
-    주어의 겉모습, 성격을 물음  
+    * Ser동사는 뒤에 나오는 주어에 따라 달라짐  
+    * 주어의 겉모습, 성격을 물음  
     ex. ¿Cómo es tú casa?  
 * ### 추가 단어
     * 가족 관계 명칭
-    abuelo  
-    abuela  
-    padre, papá  
-    madre. mamá  
-    hermano  
-    hermana  
-    abuelos  
-    padres  
-    tíos  
-    hermanos  
+    abuelo  할아버지  
+    abuela  할머니
+    padre, papá  아빠  
+    madre. mamá  엄마  
+    hermano  형제  
+    hermana  자매  
+    abuelos  조부모  
+    padres  부모  
+    tíos  삼촌들  
+    hermanos  형제들  
 * ### 추가 공부
     * él = Estar동사, el = 남성 정관사
     * Cómo+Ser동사 = 성격/특징 묻기. Cómo+Estar동사 = 안부 묻기, Cómo+ llamarse = 이름 묻기
@@ -185,10 +188,11 @@ comments: true
 
 * ### 지시사 Este, Ese, aquel : 이, 그, 저
 ---
+
 | 구분   | 남성단수  | 여성단수  |  남성복수 |  남성단수 |  중성  |
-|---|---|---|---|---|---|
+| ---    |---       |---       |---        |---       |---     |
 |  이/이것/이 사람  | este  |  esta | estos  |  estas |  esto |
-|  저/저것/저 사람 | aquel  | aquella  | aquellos  |  aquella | aquello |  
+|  저/저것/저 사람 | aquel  | aquella  | aquellos  |  aquellas | aquello |  
 ---
 !. 남성형 단수가 esto가 아니라 este, esta에 강세 안들어감(강세들어가는건 estar동사)
 !. 잘 모르는 대상은 중성형으로 커버 가능
@@ -211,6 +215,7 @@ comments: true
 
 * ### ¿De quién es~? : ~은 누구의 것입니까?
     ex. ¿De quién es esta casa?  
+
 * ### 추가단어
 * ### 추가공부
 ## Capítulo 5. ¿Dónde está tu casa?
@@ -237,7 +242,7 @@ comments: true
     7.siete 
     8.ocho 
     9.nueve 
-    10.
+    10.diez
 * ### 
 
 ## Capítulo 6. ¿Hablas español?
@@ -258,25 +263,25 @@ comments: true
     * ¿Dónde? 어디?
 * ### 단어
     * -ar형 동사
-    comprar  
-    necesitar  
-    escuchar  
-    estudiar  
-    desayunar  
-    preguntar  
-    contestar  
-    acabar  
-    cenar  
-    trabajar  
-    cantar  
-    bailar  
-    andar  
-    cocinar  
-    entrar  
-    llevar  
-    tocar  
-    mirar  
-    regresar  
+    comprar  사다  
+    necesitar  필요로하다  
+    escuchar  듣다  
+    estudiar  공부하다  
+    desayunar  아침식사하다  
+    preguntar  질문하다  
+    contestar  대답하다  
+    acabar  끝내다
+    cenar  저녁식사하다
+    trabajar  일하다
+    cantar  노래하다
+    bailar  춤추다
+    andar  걷다
+    cocinar  요리하다
+    entrar  들어가다
+    llevar  옮기다
+    tocar  만지다, 연주하다
+    mirar  보다
+    regresar 돌아오다 
 
 * ### 추가단어
 * ### 추가공부
@@ -296,18 +301,18 @@ comments: true
     * de(=from, of)
     * en(=in,on,at...)
 * ### -er형 동사
-    beber  
-    bender  
-    coger  
-    correr  
-    leer  
-    aprender  
-    comprender  
+    beber  마시다  
+    bender  팔다  
+    coger  잡다  
+    correr  달리다  
+    leer  읽다  
+    aprender  배우다  
+    comprender  이해하다
 * ### -ir 형 동사
-    escribir  
-    recibir  
-    abrir  
-    subir
+    escribir  쓰다  
+    recibir  받다  
+    abrir  열다  
+    subir 올라가다  
 * ### 추가단어
 * ### 추가공부
 
@@ -321,14 +326,14 @@ comments: true
 
 * ### Tener 동사를 이용한 관용 표현
     * Tener +  
-    claro/fío  
-    hambre/sed
-    sueño/miedo/gripe
-    prisa/suerte
-    dolor de estómago/de cabeza
+    claro/fío  덥다/춥다  
+    hambre/sed  배가고프다/목마르다  
+    sueño/miedo/gripe   졸리다/무섭다/독감 걸리다
+    prisa/suerte    급하다/운이좋다
+    dolor de estómago/de cabeza     배가 아프다/머리가 아프다
     * A : ¿Cuántos años tienes? 너 몇살이니?
     Q : Tengo veinte años.  
-    ! años는 남성명사
+    ! años는 남성명사 몇 살
 * ### 추가단어
 * ### 추가공부
 
@@ -354,4 +359,5 @@ comments: true
     * 간목(me,te,le/nos,os,les) + gustar(단수)/gustan(복수) + 주어  
     ex. A Luis le gustan los animales.
 * ### 추가단어
+    también 역시
 * ### 추가공부

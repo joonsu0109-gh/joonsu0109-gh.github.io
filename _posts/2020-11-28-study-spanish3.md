@@ -189,12 +189,13 @@ use_math: true
 
 * ### 지시사 Este, Ese, aquel : 이, 그, 저
 ---
-
 | 구분   | 남성단수  | 여성단수  |  남성복수 |  남성단수 |  중성  |
 |---|---|---|---|---|---|
 |  이/이것/이 사람  | este  |  esta | estos  |  estas |  esto |
 |  저/저것/저 사람 | aquel  | aquella  | aquellos  |  aquellas | aquello |  
+
 ---
+
 !. 남성형 단수가 esto가 아니라 este, esta에 강세 안들어감(강세들어가는건 estar동사)
 !. 잘 모르는 대상은 중성형으로 커버 가능
 

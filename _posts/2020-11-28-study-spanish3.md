@@ -5,6 +5,7 @@ subtitle: '중간, 기말 총정리'
 categories: study
 tags: 2-2
 comments: true
+use_math: true
 ---
 
 ## 시험 Point
@@ -190,7 +191,7 @@ comments: true
 ---
 
 | 구분   | 남성단수  | 여성단수  |  남성복수 |  남성단수 |  중성  |
-| ---    |---       |---       |---        |---       |---     |
+|---|---|---|---|---|---|
 |  이/이것/이 사람  | este  |  esta | estos  |  estas |  esto |
 |  저/저것/저 사람 | aquel  | aquella  | aquellos  |  aquellas | aquello |  
 ---

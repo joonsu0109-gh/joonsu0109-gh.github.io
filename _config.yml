@@ -58,11 +58,11 @@ permalink:           pretty
 paginate:            8
 paginate_path:       '/page-:num/'
 
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+#markdown: kramdown
+#highlighter: rouge
+#lsi: false
+#excerpt_separator: "\n\n"
+#incremental: false
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.
@@ -116,12 +116,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-#kramdown:
-#  footnote_backlink: '&#x21a9;&#xfe0e;'
-#  math_engine:       mathjax
-#  math_engine_opts:
-#    preview:         true
-#    preview_as_code: true
+kramdown:
+  footnote_backlink: '&#x21a9;&#xfe0e;'
+  math_engine:       mathjax
+  math_engine_opts: {}
+    preview:         true
+    preview_as_code: true
 
 compress_html:
   comments:          ["<!-- ", " -->"]

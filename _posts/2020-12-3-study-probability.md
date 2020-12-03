@@ -5,29 +5,11 @@ subtitle: '기말 내용 개념 정리'
 categories: study
 tags: 2-2
 use_math: true
-comments: true
----
-
-ssss
 
 ---
 
-This formula $f(x) = x^2$ is an example.
+### 1. Population and Sample Central Limit Theorem (모집단과 표본 중심극한 정리)
 
----
-
-과연?
-업데이트 확인용  
-
----
-
-$$ \sum $$  
-
-\[ x_a = y_c \]\
-
-완젼 $$ x_a = y_c $$ ㅁㄴ  
-
----
-
-fdf
-fff
+* ### POPULATION AND SAMPLE
+    * population = 모집단, Paramter = 모수, 모평균, 모분산  
+    sample = 표본, Statistic = 통계량, 표본평균, 표본분산  

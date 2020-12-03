@@ -4,6 +4,9 @@ layout: base
 
 <div class="page">
   <h1 class="page-title">{{ page.title | default:"Home"}}</h1>
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
   {% capture text %}
 Looks like you are using the `{{ page.layout }}` layout. This layout is not supported by Hydejack. Instead use `blog` or `list`. For more information see the [Hydejack Documentation](https://qwtel.com/hydejack/docs/latest/).
   {% endcapture %}
@@ -13,6 +16,9 @@ Looks like you are using the `{{ page.layout }}` layout. This layout is not supp
   {{ content }}
 
   <h2>Posts</h2>
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
   <ul class="related-posts">
     {% for post in site.posts %}
       {% include post-list-item.html post=post %}
@@ -20,6 +26,9 @@ Looks like you are using the `{{ page.layout }}` layout. This layout is not supp
   </ul>
 
   <h2>Pages</h2>
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
   <ul class="related-posts">
     {% for page in site.html_pages %}
       {% if page.layout == 'page' %}

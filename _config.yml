@@ -58,6 +58,14 @@ permalink:           pretty
 paginate:            8
 paginate_path:       '/page-:num/'
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.
 # feed:
@@ -115,7 +123,7 @@ kramdown:
   math_engine:       mathjax
   math_engine_opts:
     preview:         true
-    preview_as_code: true
+    preview_as_code: false
 
 compress_html:
   comments:          ["<!-- ", " -->"]

@@ -4,8 +4,8 @@ title: '[확률 및 통계]총정리'
 subtitle: '기말 내용 개념 정리'
 categories: study
 tags: 2-2
-comments: true
 use_math: true
+comments: true
 ---
 
 ssss

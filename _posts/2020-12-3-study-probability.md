@@ -21,7 +21,11 @@ This formula $f(x) = x^2$ is an example.
 
 ---
 
-$$ \sum $$
+$$ \sum $$  
+
+\[ x_a = y_c \]  
+
+$$ x_a = y_c $$  
 
 ---
 fdf

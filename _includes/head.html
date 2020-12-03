@@ -9,11 +9,16 @@
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:type" content="article">
 
+
 {% for tag_slug in page.tags %}
   {% unless tag.header-img %}
     {% assign tag = site.featured_tags | where: "slug", tag_slug | first %}
   {% endunless %}
 {% endfor %}
+
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
 
 {% if page.header-img %}
   <meta property="og:image" content="{{ site.url }}/assets/{{ page.header-img }}">

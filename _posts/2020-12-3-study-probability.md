@@ -24,9 +24,11 @@ This formula $f(x) = x^2$ is an example.
 $$ \sum $$  
 
 
-완젼 $$ x_a = y_c $$ ㅁㄴ  
+완젼 $$ x_a = y_c $$ ㅁs  
+$ x_a = y_c $  
 
 ---
 
 fdfdd
-fff
+fff 
+fdfdf

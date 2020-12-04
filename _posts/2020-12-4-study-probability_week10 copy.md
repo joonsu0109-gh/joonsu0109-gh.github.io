@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[확률 및 통계]week11.Estimation
+title: '[확률 및 통계]week10.Estimation
 Hypothesis testing
 Significance level/p-value'
 subtitle: '10주차 내용 정리'
@@ -28,8 +28,8 @@ tags: 2-2
 ![신뢰구간](/assets/img/confidence2.JPG)
 * 표준편차를 이용해 표준오차 구할 수 있다.
 
-### α
-* 신뢰구간 = 1-α. 신뢰구간으로 90%, 95%, 99%, 99.9% 주로 이용.
+    ### α
+    * 신뢰구간 = 1-α. 신뢰구간으로 90%, 95%, 99%, 99.9% 주로 이용.
 
 ### 2. 유의수준 & P-VALUE
 #### significance leve α (유의수준)

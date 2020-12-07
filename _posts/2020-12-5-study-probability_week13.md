@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '[확률 및 통계]week13. ANOVA(Analysis of variance)
-Nonparametric test 가설검정방법'
+title: '[확률 및 통계]week13. ANOVA(Analysis of variance)'
 subtitle: '11주차 내용 정리'
 categories: study
 tags: 2-2
